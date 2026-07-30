@@ -1,3 +1,5 @@
+# Feito com IA
+
 # 🛡️ XhosaCrypt Protocol (5-Layer StegoCrypt Engine)
 
 > **Proof of Concept (PoC)** de um protocolo híbrido experimental que combina **Criptografia Modular Exponencial**, **Esteganografia Linguística (Xhosa)**, **Evasão por Homóglifos Cirílicos (Unicode)** e **Integridade via HMAC-SHA256**.
