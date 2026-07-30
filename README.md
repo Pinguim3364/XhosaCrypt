@@ -65,6 +65,7 @@ cd XhosaCrypt-Protocol
 
 # Execute o script principal
 python main.py
+’’’
 
 # Feito com IA
 # Ideia: Pinguim3364
