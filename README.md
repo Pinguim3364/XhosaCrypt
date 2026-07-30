@@ -1,6 +1,6 @@
 # Feito com IA
 ## Prática do código/código: IA(Claude Sonnet 5/Haiku 4.5)
-### Ideia: Mateus Costa (Pinguim3364)
+### Ideia: Pinguim3364
 
 # 🛡️ XhosaCrypt Protocol (5-Layer StegoCrypt Engine)
 
