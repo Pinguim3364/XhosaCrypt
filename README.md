@@ -1,4 +1,4 @@
-# Feito com IA
+
 
 # 🛡️ XhosaCrypt Protocol (5-Layer StegoCrypt Engine)
 
@@ -65,3 +65,7 @@ cd XhosaCrypt-Protocol
 
 # Execute o script principal
 python main.py
+
+# Feito com IA
+# Ideia: Pinguim3364
+# Prática do código/código: IA(Claude Sonnet 5/Haiku 4.5)
